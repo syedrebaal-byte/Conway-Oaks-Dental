@@ -1,0 +1,8 @@
+{
+  "name": "Conway Oaks Dental - Premium Orlando Family & Cosmetic Dentistry",
+  "description": "Award-winning comprehensive family, cosmetic, implant, and orthodontic dental care in Orlando, FL led by Dr. Austin Lyman and team.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
